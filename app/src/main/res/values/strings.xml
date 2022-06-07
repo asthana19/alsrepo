@@ -1,0 +1,390 @@
+<resources>
+    <string name="app_name">ALS Care</string>
+    <string name="app_title1">ALS Care - Family of PALS and CALS </string>
+    <string name="app_title2">ALS Care - Membership </string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_register">Click to Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_about_you">AboutYou</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_more">More</string>
+    <string name="title_activity_speech_swallow">Speech and Swallowing Exercise</string>
+
+    <string name="speechexercise1">\n\n
+        " Disclaimer : Information shared here is contributed by caregivers of ALS patient \n\n "
+        " We intend to help you based on experience of caregivers \n\n"
+
+        "ALS patients face speech and swallowing problems. Some have bulbar onset while others show limb onset \n"
+        "Early symptoms show slurring of speech, hoarse voice, worsening of speech intelligibility and fatigue \n"
+
+        "Let us understand what causes speech difficulties in ALS patients \n"
+        "The tongue, lips, jaw, soft palate and larynx along with their muscles, together help us to speak. \n"
+        "When these set of oral muscles are affected (weakened/ paralysed), the range of movement, speed of movement and accuracy with which these muscles move is lost. \n"
+        "Thus the overall precision of producing accurate sounds is lost. Hence, the speech produced is considered to be out of the normative range and is unclear/muffled/non-intelligible. \n"
+        "Respiration also gets affected in many cases. Change of breathing pattern often leads to a change in the voice quality, making the voice breathy in quality. \n"
+        "Weakness of soft palate also influences the voice quality making it nasal in nature. \n"
+        "All the above changes causes the patient to "sound" completely different, making the patient unrecognizable by voice print. \n\n"
+
+        "Under the guidance of speech therapist, patient should practice oro-motor exercises to strengthen tongue muscles \n\n"
+        "The oro-motor exercises include: \n"
+        " -Lip retraction spreading exercises \n"
+        " -Lip pursing, puffing exercises \n"
+        " -Tongue protrusion, retraction, elevation, depression and lateralization exercises \n"
+        " -Tongue rotation exercises \n"
+        " -Blowing and sucking velar exercises  \n\n"
+
+        "Link to videos : \n"
+
+        "Lip Protrusion Exercise\n<a href="https://www.youtube.com/watch?v=P9olC684jnA">www.youtube.com/watch?v=P9olC684jnA</a>\n\n"
+        "Lip Retraction Exercise\n<a href="https://www.youtube.com/watch?v=GVEF6istp0Q">www.youtube.com/watch?v=GVEF6istp0Q</a>\n\n"
+        "Effort full Swallowing Exercise\n<a href="https://www.youtube.com/watch?v=LsFTjvn12f8">www.youtube.com/watch?v=LsFTjvn12f8</a>\n\n"
+        "Tongue Lateralization for speech and swallow\n<a href="https://www.youtube.com/watch?v=702IrmrMOmw">www.youtube.com/watch?v=702IrmrMOmw</a>\n\n"
+        "Tongue Exercises for speech and swallow\n<a href="https://www.youtube.com/watch?v=Y0KgBbT11Ew">www.youtube.com/watch?v=Y0KgBbT11Ew</a>\n\n"
+        "<b>Assistive Communication Devices</b> \n\n"
+        "There are many compact Speech generating devices based on touchpad and eyeball tracker \n"
+        "Owing to high cost of commercial AAC devices, there is an affordable solution based on Tobii-4c and OptiKey \n"
+        "To setup , please follow the instructions here <a href="https://www.youtube.com/watch?v=P9olC684jnA">www.youtube.com/watch?v=P9olC684jnA</a>\n"
+
+        "<b>Voice Banking </b>\n"
+        "About 30% of ALS patients have their speech affected. Voice Banking aims to store
+    </string>
+
+    <string name="pranayam">\n\n
+        " Disclaimer : Information shared here is contributed by caregivers of ALS patient \n\n "
+        " We intend to help you based on experience of caregivers \n\n"
+        "<b>Exercise Regime for early stage ALS patient </b>\n"
+        "In early stages, apart from proper diet, physical exercise, breathing exercise, meditation, positivity and will goes a long way \n"
+        "If the person cannot do exercise on his own, then they should do exercise under guidance of trained medical practitoner or trained caregiver. In general. exercise regime should include - "
+        " 1) Range of Motion exercises to sustain daily activities\n"
+        " 2) Mild resistance exercises using theraband, theratubes, springs, pulleys can be used if the patient has normal strength. \n"
+        " 3) Breathing exercises to strengthen respiratory muscles \n"
+        " 4) Speech and swallowing exercises"
+
+        "Exercise help in improving blood circulation that reduces spasticity, cramps. However, ALS patient face fatigue and need to conserve energy"
+        "So patients should exercise for short periods several times a day rather than attempting to exercise all muscle groups in one session.\n"
+        "Also exercise with caution and prevent falls. Recovery after falls is impossible as ALS is relentless \n"
+        "<b>Meditation</b>\n"
+        "Meditation is a great way to relax and rejuvenate. We have observed patients go in deep relaxation at any stage \n"
+        "Morning Guided Meditation by Shweta Agarwal \n<a href="https://www.youtube.com/watch?v=j0k8h5NvN_E">www.youtube.com/watch?v=j0k8h5NvN_E</a>\n"
+
+    </string>
+
+
+    <string name="aboutmnd">\n\n
+        " Disclaimer : Information shared here is contributed by caregivers of ALS patient \n\n "
+        " We intend to help you based on experience of caregivers \n\n"
+        "Amyotrophic Lateral Sclerosis(ALS) or Motor Neurone Disease(MND) are a group of degenerative neuromuscular conditions which share common symptoms.\n"
+        "They attack the motor neurones - nerve cells which control the muscles that enable us to move around, speak, breathe and swallow normally. \n"
+        "These neurones are situated in the spinal cord and lower brain and they transmit signals from the brain to the voluntary muscles throughout the body. \n"
+        "When motor neurones die as a result of MND, the ability of the brain to control muscle movement is affected. \n"
+        "When muscles fail to receive messages, they gradually weaken and waste away (atrophy). \n"
+        "The pattern of weakness varies from person to person. Not all symptoms necessarily happen to everyone and it is unlikely they will all develop at the same time, or in any specific order. \n\n"
+        "ALS is the most common form of motor neurone disease (MND). \n"
+        "Nearly 90% of patients with MND have the mixed ALS form of the disease, so the terms MND and ALS are commonly used to mean the same thing. \n"
+        "Within this large ALS group there is still a huge variation in the way the disease presents and progresses, regardless of where it first begins. \n\n"
+        "ALS/MND is also known as Lou Gehrigís Disease and Maladie de Charcot, after Jean-Martin Charcot, the French neurologist who first described it in 1869.\n\n"
+        "ALS/MND is a rare condition and is present in 3 to 5 people per 100,000 population. \n\n"
+        "The cause of ALS/MND is not yet known. While many theories are being researched, at present neither a cure nor a definitive means of prevention is known. \n\n"
+
+    </string>
+
+    <string name="faq">\n\n
+        " Disclaimer : Information shared here is contributed by caregivers of ALS patient \n\n "
+        " We intend to help you based on experience of caregivers \n\n"
+        "<b>How is ALS/MND diagnosed ? </b>\n"
+        "At present there is no definitive means of diagnosis of ALS/MND. Most diagnoses are made by eliminating all other ailments with symptoms resembling those of ALS/MND. \n"
+        "Neurologists look for symptoms of sudden weakness like foot drop or slurred speech and use a number of clinical tests to establish a profile, including blood testing, MRI (Magnetic Resonance Imaging) scans and nerve conduction EMGs (Electro Myographs).\n"
+        "<b>What are early symptoms of MND ? </b> \n"
+        "Early symptoms of MND/ALS include difficulty in walking (perhaps dragging a foot), tripping or falls, dropping things, difficulty in grasping,\n"
+        "abnormal fatigue of the arms and/or legs, slurred speech, muscle cramps and twitches(fasciculations), difficulty in chewing, mood swings \n"
+        "Please consult nuerologist immediately. \n\n"
+        "<b>What is EMG/NCV testing ? </b>\n"
+
+        "<b>What are the signs of swallowing problems ? </b>\n"
+        "Signs of swallowing problems are : \n"
+        "  Inability to chew food properly \n"
+        "  Frequent cough while eating   \n"
+        "  Eye watering / eye reddening while eating \n"
+        "  Feeling of breathlessness while eating  \n"
+        "  Effortful swallow \n"
+        "  Increased meal time with reduced meal intake \n"
+        "  Sudden weight loss \n"
+        "  Feeling of something stuck in throat Spilling out of food from corners of mouth \n"
+        "  Wet voice quality \n"
+
+        "<b>What are early signs of speech difficulties in ALS patients ?</b> \n"
+        " Muffed speech quality or fatigue \n"
+        " Loss of precision of certain sounds \n"
+        " Hoarse voice \n"
+
+        "<b>What are the symptoms of wasting of hand muscles ?</b>"
+        " Clumsiness while handling objects, Slipping of objects from hand, Weak grasp and grip strength \n"
+        " Difficulty in opening bottle tops ,turn keys, buttoning and unbuttoning \n"
+        " One may also notice that the muscles in the hands(especially at the base of thumbs) become flatter with time. \n"
+        " There is wasting seen in thenar, hypothenar web space and interossei area of the hand \n"
+        " Clawing tendency of fingers, Wrist drop, Ape/ Simian Hand\n\n"
+
+        "<b>How do we improve speech intelligibility ? </b>\n"
+        " Please consult speech language pathologist (SLP) to practice oro-motor exercises and other rehabilitation techniques \n"
+        " You can find related videos in our Speech and Swallowing Therapy link here \n"
+
+        "<b>Are there any communication aids available ? </b>\n"
+        " Yes there are many AAC devices available but due to high cost PALS and CALS in this group use more affordable version \n"
+        " Details of the device setup is given here \n"
+
+        "<b>What is voice banking ? </b>\n"
+
+        "<b>What are the ways to understand PALS when they are unable to speak </b>\n"
+
+        "<b>What are the treatment options for ALS/MND </b>\n"
+        " As of today, there is no cure for ALS and there is no effective treatment for ALS \n"
+        " Please consult your team of doctors \n"
+        " Experienced Caregivers in ALS community can share their experiences about management of the disease and ease the journey of PALS/CALS \n"
+
+
+        " \n\n"
+        " \n\n"
+
+    </string>
+    <string name="diet">\n\n
+        " Disclaimer : Information shared here is contributed by caregivers of ALS patient \n\n "
+        " We intend to help you based on experience of caregivers \n\n"
+
+        " <b>Role of Nutrition and Dietary Supplements in ALS patients</b>\n"
+        " It is seen that at the time of diagnosis, many ALS patients report swallowing problems, muscle wastage and tremendous weight loss in the early stage \n"
+        " Exercise and proper nutrition is a part of the available treatment for ALS. Unfortunately both of these capabilities are impacted in ALS patient \n"
+        " Hence patients are unable to get adequate nutrients causing malnutrition. Sustaining weight of ALS patient is a challenge for the caregiver \n"
+        " Many patients switch to feeding tubes either to supplement or replace eating food through mouth \n"
+        " With feeding tubes and balanced meal plan rich in protein and fiber , it is found that patients are able to maintain weight and avoid constipation \n"
+        " Proper diet and hydration is critical to maintain good quality of life and to some extent prolong years of life \n"
+
+        " As a learning from ALS community, some observations, practices and meal plans are shared here \n"
+
+        " Caregivers must ensure that \n"
+        "   1. There are 5 to 6 small meals for ALS patients. \n"
+        "   2. Well-balanced diet comprising of protein, fiber, multi-vitamins, water \n"
+        "   3. Nutritional supplements like Endura Mass can be added \n"
+        "   4. Home-made blended meals should be preferred \n"
+        "   5. Avoid high sugar and processed food. \n"
+        "   6. Avoid vitamin-D, vitamin-B12 , vitamin-c , folate and magnesium and potassium \n"
+
+        " <b>Diet Plans provided by our esteemed caregivers </b> \n"
+        " <b>Diet Plan1 shared by one our caregiver </b> \n"
+        " <b>Result - Patient has sustained weight </b> \n"
+        " <b> Morning Meal on wakeup - Protein shake   </b> \n"
+        " 50 grams each ( peanuts, almonds, soyabean, walnuts, pumpkin seeds, sesame seeds, flax seeds, sunflower seeds. "
+        " Dry roast all the nuts and seeds separately. Once cool grind in a fine powder.  Take 30 grams of powder ( soak in 1 cup of water overnight. Grind in same water.\n\n"
+        " <b> Meal 1 </b>\n"
+        " Cottage cheese. Blend home paneer in sane water. Put a pinch of black pepper powder or vegetable dalia. \n\n"
+        " <b> Meal 2 </b> \n"
+        " Red lentil soup - 1 tablespoon red masoor dal, onion, carrot, garlic, french bean , water. Make soup add 15 grams of ensure. \n\n"
+        " <b> Meal 3 </b> \n"
+        " Puree of Steamed apple/ pear / papaya \n"
+        " <b> Meal 4 </b> \n"
+        " Vegetable khichdi/ sabudana khichri. \n"
+        " <b> Meal 5 </b> \n"
+        " Calcium shots. - Soak the following items in 1 cup of water and grind."
+        " Half teaspoon soaked sesame seeds."
+        " 4 almonds,"
+        " 1 green cardamom, 2 dates, few saffron strands"
+        " Grind all and drink. \n "
+        " <b> Meal 6 </b> \n"
+        " Kala channa soup/ spinach potato soup. \n "
+        " 5- 6 spinach leaves, 1 medium potato, onion, salt and roasted zeera to taste. \n"
+        " Steam and grind all. \n "
+        " <b> Meal 7 </b> \n"
+        " Millet kheer. \n"
+        " 1 tablespoon little millet. \n"
+        " 1 tablespoon dessicated coconut. \n"
+        " Soak 10 raisins, 5 cashew, 2 Green cardamom \n"
+        " Roast millet and pressure cook in water . Grind all other ingredients.  Mix all and boil once . Grind . \n "
+        " OR. Vegetable dalia. \n "
+
+        " <b>Before sleeping. Give Immunity booster. </b>\n "
+        " 125 ml.of almond milk. \n "
+        " A pinch of cinnamon, turmeric, fresh ginger, black pepper powder, 2 soaked dates. \n"
+        " Grind all and Add 15 grams of ensure plus. \n"
+
+        " <b>Dietary management of constipation </b>\n "
+        " Constipation is a big issue faced by ALS patients. It impacts their well-beings. Here are some guidelines for avoiding constipations \n"
+
+        " 1)<b>Fiber</b> - Eat Fiber rich foods in your diet. Consume more soluble fiber that dissolves in water and increases healthy gut bacteria which lower inflammation in the body and helps digestion."
+        " It alleviates loose stool. \n"
+        " Sources:- Chia seeds, dry, Psyllium husks, Flax seeds, Pear cooked, Lima beans cooked, Prunes, Oat bran, okra/bhindi, Apple unpeeled, Brussels sprouts\n"
+        " Consume Insoluble fiber moderately. It doesn’t dissolve in water. It adds bulk to our stool and passes through the system more quickly. Basically, it helps keep the pipes working regularly and prevents constipation. \n"
+        " It alleviates constipation. \n"
+        " Sources:- Wheat bran, rice bran, dried fig, buckwheat dry, Lentils cooked, Almonds, Avocados, chestnut, prunes cooked dried, Green peas\n"
+        " Fermented fiber can be from both these categories, though more often soluble fibers are fermented. Fibers fermented by bacteria help increase the bacteria in the colon, which aids digestion"
+        " It also plays a major role in human health \n"
+        " The best whole-food sources of fermentable fibers are beans and legumes eg sprouts \n"
+
+        "2)<b>Water</b> Staying hydrated facilitates digestion, supports muscle function and waste moves along smoothly. \n"
+        "  Recommendation:- 2-2.5 liter/day \n"
+        "3)"<b>Probiotics and Prebiotics </b> \n"
+        " Probiotics are the good bacteria. It boost immunity and GI health. It help the colon maintain a healthy lining of mucus to facilitate the process of defecation \n"
+        " It Softens the consistency of stool and  making them easier and less painful to pass \n"
+        " Sources:- fermented dairy foods including yogurt, aged cheeses, tofu (fermented soya products), paneer, kefir( for lactose intolerance), idli, dosa, kimchi, green peas \n"
+        " Prebiotics fibers are naturally occurring good bacteria that enhance calcium absorption. \n"
+        " Sources:- fruits, vegetables and whole grains such as bananas ( raw one), onions, garlic, flax seeds, leeks, asparagus, chicory roots, apple cider vinegar, beans and whole-grain foods, potatoes, avocado \n\n"
+        "4)<b>Magnesium :- Magnesium helps to increase the amount of water in the intestines, which can help with bowel movements.</b>  \n"
+        " Sources:- Spinach, darker lettuce, broccoli, kale in addition veggies like sweet corn, lima beans, peas, sweet corn, and potatoes \n"
+        " sprouts, whole grains like quinoa, millet, barley, and oats. Nuts (Almonds, walnuts) and flax seeds also help \n"
+        " Fruits like avocado, guavas, bananas, and papayas are also rich in magnesium \n"
+        " Magnesium citrate is common osmotic laxative and nutritional supplement promotes bowel movements. \n"
+        " That means they pull water into your digestive system which helps soften your stool. \n\n"
+        "5)<b>Potassium:- Low potassium levels can affect the muscles in the intestines, which can slow the passage of food and waste. This effect on the intestines can cause constipation and bloating. </b> \n"
+        " Sources:- Coconut water
+        " Cereals, Millets - Ragi, Amaranth seeds, Wheat, Jowar \n"
+        " Grains/legumes - Soya bean, Rajma, Cowpea, Green gram \n"
+        " Black gram, Horse gram, Bengal gram \n"
+        " Green leafy vegetables -Agathi leaves, Spinach, Amaranth leaves, Tamarind leaves, Mustard leaves, Drumstick leaves, Cabbage, Fenugreek leaves \n"
+        " Other vegetables -Drumstick, Plantain, Ash gourd, Broad beans , Cauliflower ,jackfruit, Bitter gourd, French beans, Baby corn \n"
+        " Fruits -Bael fruit, Avocado, Banana, Wood apple, Guava, lemon \n"
+        " Roots and tubers -Lotus root, Potato, Colocasia, Yam, Water chestnut \n"
+        " Condiments and spices -Turmeric powder, Chilies,, Cumin seeds, Black pepper, Curry leaves, Coriander leaves, Garlic \n"
+        " Nuts/ dry fruits -Raisins,  Pistachios, Dates, Almonds, Groundnut  \n"
+
+        "5)<b>Aloe vera </b> - Aloe vera latex is often used as a laxative. It’s full of anthraquinone glycoside, which are compounds that draw water into the intestines and stimulate your digestive tract \n"
+        "6)<b>Castor oil </b>-This long-used natural laxative is derived from castor beans, which are full of intestinal movement-promoting ricinoleic acid \n"
+        "7)<b>Senna </b>- This herb is derived from the plant Senna alexandrina and found in many common over-the-counter laxatives \n"
+        "8)<b>Drinking plenty of water and healthful juices can help relieve constipation in many cases.</b> Prune juice, green smoothie ( celery leaves, spinach, kale leaves, dark lettuce n cucumber), Lemon juice, Apple juice \n"
+        "9)<b>Reduce processed food intake , Limit daily salt intake  exercising regularly </b>\n"
+        "10)<b>Use triphala </b>\n"
+        "12)<b>use safer laxatives and enema </b>\n"
+        "Safe laxatives for long term use \n"
+        "1. Polyethylene Glycol 17 gm sachet bedtime with a glass of water \n"
+        "2. Tab. Pruvict (1 mg or 2 mg based on the patients response) \n"
+        "<b>Laxatives for occasional use </b> \n"
+        "1. Sodium Picosulphate 5 to 10 mg \n"
+        "2. Syrup Cremaffin Plus or Lactihep Plus- 5 to 15 ml (titrate as per the response) \n"
+        "For emergency blockage caused by Hard Stool :- Do enema, preferably Glycerine enema. Avoid Sodium Phosphate enema unless constipation is very severe. \n"
+        "Try Biscodyle 10 mg Suppository before enema. \n\n"
+
+
+    </string>
+
+    <string name="verification">
+        "First time users, please provide mobile number for verification\n"
+        "You will receive 6 digit SMS code \n"
+        "Enter code received and click Verify "
+    </string>
+
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="title_activity_speech_exercise">Speech and Swallowing Exercise</string>
+    <string name="title_activity_pranayam_exercise">PranayamExerciseActivity</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="verify_otp">Verify</string>
+    <string name="enter_phone">Enter phone no</string>
+    <string name="title_activity_about_als">AboutAlsActivity</string>
+    <string name="tab_text_1">About ALS</string>
+    <string name="tab_text_2">For You</string>
+    <string name="tab_text_3">FAQ</string>
+</resources>

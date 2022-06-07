@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44386155629",
+    "project_id": "alscare",
+    "storage_bucket": "alscare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44386155629:android:db4dacdba46bad5ebf1364",
+        "android_client_info": {
+          "package_name": "com.management.alscare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44386155629-mstuc2f1soaa15a9a30ffrigqigk6hnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtp_JhwfEN-DzwP7k8UE8OVLmpGHnc7rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44386155629-mstuc2f1soaa15a9a30ffrigqigk6hnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
